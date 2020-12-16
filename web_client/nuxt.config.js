@@ -38,6 +38,7 @@ export default {
         // Doc: https://github.com/nuxt-community/dotenv-module
         '@nuxtjs/dotenv',
         'portal-vue/nuxt',
+        '@nuxt/content',
     ],
     pwa: {
         meta: {
